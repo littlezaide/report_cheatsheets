@@ -10,7 +10,7 @@ timeframe is over 10 years, to 2024
 ### population goals
 
 1. inter-provincial migration: 1000 net gain/year
-2. internation immigration: ca. 7000 gain/year
+2. international immigration: ca. 7000 gain/year
 3. 10% of foreign students opt to stay in NS after graduation
 
 ### economic development goals
