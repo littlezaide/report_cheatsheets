@@ -2,45 +2,46 @@
 
 ## walking
 
-Recommendation #1: Halifax should develop a comprehensive strategy to address the gaps in the
+1. Halifax should develop a comprehensive strategy to address the gaps in the
 pedestrian network, especially on major roadways (collectors and arterials) served by transit in the urban
 areas. To achieve this, consideration should be given to creating a new strategic pedestrian budget to
 address gaps on major roads.
-Recommendation #2: Where a sidewalk is needed on a busy road in the urban areas, and a bike route
+2. Where a sidewalk is needed on a busy road in the urban areas, and a bike route
 is also desired according to Maps 2A, B & C, consideration should be given to building an AT greenway
 beside the road to serve both modes.
-Recommendation #3: Halifax should undertake a study to determine if and how new gaps in the
+
+3. Halifax should undertake a study to determine if and how new gaps in the
 pedestrian network can be avoided by requiring developer contributions to off-site pedestrian
 infrastructure through the subdivision process, in the Urban Areas.
-Recommendation #4: Halifax should undertake a planning review within the Urban Areas to determine
+4. Halifax should undertake a planning review within the Urban Areas to determine
 if there are areas where the costs of maintaining municipal streets to address the needs of pedestrians
 would be prohibitive and whether zoning amendments should be considered in those areas.
-Recommendation #5: Halifax needs to develop a comprehensive approach to the delivery of rural
+5. Halifax needs to develop a comprehensive approach to the delivery of rural
 active transportation facilities, including criteria for determining the most appropriate AT facility type,
 and consideration of the financial implications (capital and operating) of doing so.
-Recommendation #6: The municipality should consider the recommendations of the 2014 Crosswalk
+6. The municipality should consider the recommendations of the 2014 Crosswalk
 Safety Advisory Committee Report in future updates of the Pedestrian Safety Action Plan.
-Recommendation #7: Halifax should consider amending the Encroachment By-law (E-200) to provide
+7. Halifax should consider amending the Encroachment By-law (E-200) to provide
 stronger protections for a minimum pedestrian clear zone of 2.1m in dense commercial areas.
-Recommendation #8: Halifax should consider making it a standard practice to add tactile surface
+8. Halifax should consider making it a standard practice to add tactile surface
 indicators in concrete curb ramps to assist pedestrians with visual impairments.
-Recommendation #9: Halifax should consider incorporating pedestrian friendly street design
+9. Halifax should consider incorporating pedestrian friendly street design
 guidelines during any review of the Red Book and in the development of a Complete Streets Policy.
-Recommendation #10: Halifax should consider a pilot program to implement walkability improvements
+10. Halifax should consider a pilot program to implement walkability improvements
 in the street network.
-Recommendation #11: To encourage AT walking, new communities in the municipality should be
+11. To encourage AT walking, new communities in the municipality should be
 designed to be compact and mixed use, offering a wide range of live/work/shop/play opportunities
 within walking distance of each other.
-Recommendation #12: Halifax should consider MPS and LUB amendments that support the retrofitting
+12. Halifax should consider MPS and LUB amendments that support the retrofitting
 of existing communities to create walkable characteristics (i.e. mixed land use) where they did not
 previously exist.
-Recommendation #13: Consideration should be given when locating new municipal facilities (e.g.
+13. Consideration should be given when locating new municipal facilities (e.g.
 recreation centres, libraries, office buildings, etc.) that they be located in walkable areas. The
 municipality should also encourage other levels of government to consider walkability when locating
 their facilities.
-Recommendation #14: The municipality should engage with the Halifax Regional School Board to
+14. The municipality should engage with the Halifax Regional School Board to
 encourage the siting of schools in a manner that will encourage active travel to school.
-Recommendation #15: Halifax should consider MPS and LUB amendments in the urban areas to require
+15. Halifax should consider MPS and LUB amendments in the urban areas to require
 street–oriented commercial buildings and/ or direct, separated, pedestrian connection(s) from the right
 of way to the main entrance of all office, retail, and institutional buildings, whether there is an existing
 sidewalk in the right of way or not.
@@ -54,12 +55,12 @@ $6.5M over 5 years.
 by 2019:
 
 - 15 km of Local Street Bikeways in the Regional Centre;
- 5 km of bicycle lanes in the Regional Centre;
- 2 km of greenways in the Regional Centre;
- One pilot project of a protected bicycle lane;
- Improved connections to the Macdonald Bridge Bikeway on both sides;
- 10 km of Local Street Bikeways outside Regional Centre;
- 12 km of bike lanes and/ or paved shoulders outside the Regional Centre.
+- 5 km of bicycle lanes in the Regional Centre;
+- 2 km of greenways in the Regional Centre;
+- One pilot project of a protected bicycle lane;
+- Improved connections to the Macdonald Bridge Bikeway on both sides;
+- 10 km of Local Street Bikeways outside Regional Centre;
+- 12 km of bike lanes and/ or paved shoulders outside the Regional Centre.
 
 Recommendation #16: Focus the AT Plan bicycle program on making connections to create a network.
 Recommendation #17: The municipality should consider protected bicycle lanes where ever there are
@@ -77,42 +78,40 @@ Recommendation #21: Where a bike route is desired (Maps 2A, B & C) and pedestria
 needed, consideration should be given to building an AT Greenway beside the road to serve both modes.
 Recommendation #22: To achieve the goal of doubling of AT mode share, the municipality should put
 particular emphasis on the Regional Centre for the cycling component of implementing the AT Plan.
-Recommendation #23: Maps 2B & C identify streets that Council has confirmed as candidate routes for
+23. Maps 2B & C identify streets that Council has confirmed as candidate routes for
 bicycle lanes in the Regional Centre. Prior to establishing these painted (or protected) bicycle lanes there
 should be:
-
-
-
-More detailed review of each corridor under criteria listed in Appendix E;
-Public engagement; and
-Regional Council approval.
-Recommendation #24: Along streets identified as candidate routes for bicycle lanes on Maps 2B and 2C,
+- More detailed review of each corridor under criteria listed in Appendix E;
+- Public engagement; and
+- Regional Council approval.
+24. Along streets identified as candidate routes for bicycle lanes on Maps 2B and 2C,
 new developments should reduce reliance on on-street parking by providing sufficient off-street parking
 for their own uses, including visitor parking. New and existing developments may also be required to
 consider loading from alternate streets, or time-limited periods for loading. Land Use Bylaw
 amendments should be considered to ensure these matters are considered by property owners.
-Recommendation #25: Bicycle facility development in urban areas outside the regional centre should
+25. Bicycle facility development in urban areas outside the regional centre should
 focus on:
+
 - Improved connections to local destinations, such as schools, recreation centres, libraries, retail centres and transit hubs.
 - Completion of the greenway network as per Section 7 of this plan
 - New bicycle lanes and local street bikeways where identified on Maps 2A, B, and C.
 
-Recommendation #26: The municipality should work with rural communities and the Province to
+26. The municipality should work with rural communities and the Province to
 identify good candidate routes for paved shoulders that provide AT connections to local destinations.
 Halifax should also work with the Province and Bicycle Nova Scotia to identify preferred routes through
 the municipality to be followed by the Nova Scotia Blue Route. Council should consider amendments to
 Maps 2A, B, and C as needed, resulting from this process.
-Recommendation #27: The municipality needs to review maintenance service standards for bicycle
+27. The municipality needs to review maintenance service standards for bicycle
 lanes and routes, and should consider adopting special standards, especially on the busiest bike routes.
-Recommendation #28: Council should continue to support cycling through the supply and installation of
+28. Council should continue to support cycling through the supply and installation of
 bicycle racks and repair stands and should consider a pilot program to support the installation of more
 bicycle parking at commercial locations and schools which predated the 2006 Land Use Bylaw bicycle
 parking requirements.
-Recommendation #29: The municipality should work with the province to enable bicycle traffic control
+29. The municipality should work with the province to enable bicycle traffic control
 signage, signals and pavement markings approved for use by the Transportation Association of Canada
 to be used under the Nova Scotia Motor Vehicle Act and Regulations, and should consider testing
 innovations in active transportation facilities under the Innovative Transportation Act.
-Recommendation #30: The municipality should work towards improved detection of bicycles at
+30. The municipality should work towards improved detection of bicycles at
 signalized intersections and undertake to replace existing detection technologies with ones sensitive to
 bicycles when intersections or signals are upgraded. Consideration should also be given to marking the
 pavement with a stencil to advise cyclists of correct positioning on the roadway to activate the signal.
